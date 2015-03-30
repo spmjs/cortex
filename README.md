@@ -261,6 +261,11 @@ wrappedData.mydata.set(100);
 console.log(wrappedData.mydata.getValue()); //100
 ```
 
+# Install via spm
+```console
+spm install cortexjs
+```
+
 # Building Cortex
 To build Cortex:
 ```console

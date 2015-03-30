@@ -27,5 +27,8 @@
   "main": "./build/cortex",
   "engines": {
     "node": "*"
+  },
+  "spm": {
+    "main": "./build/cortex.js"
   }
 }
